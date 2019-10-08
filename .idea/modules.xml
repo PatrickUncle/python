@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CCP_REST_DEMO_Python_v2.7r1/.idea/CCP_REST_DEMO_Python_v2.7r1.iml" filepath="$PROJECT_DIR$/../CCP_REST_DEMO_Python_v2.7r1/.idea/CCP_REST_DEMO_Python_v2.7r1.iml" />
+      <module fileurl="file://G:/自创python软件/Farm/.idea/Farm.iml" filepath="G:/自创python软件/Farm/.idea/Farm.iml" />
+      <module fileurl="file://G:/django_web/ajax_communicate/.idea/ajax_communicate.iml" filepath="G:/django_web/ajax_communicate/.idea/ajax_communicate.iml" />
+      <module fileurl="file://G:/django_web/am/.idea/am.iml" filepath="G:/django_web/am/.idea/am.iml" />
+      <module fileurl="file://G:/django_web/cookie_test/.idea/cookie_test.iml" filepath="G:/django_web/cookie_test/.idea/cookie_test.iml" />
+      <module fileurl="file://G:/django_web/django_improve/.idea/django_improve.iml" filepath="G:/django_web/django_improve/.idea/django_improve.iml" />
+      <module fileurl="file://G:/django_web/foreignkey/.idea/foreignkey.iml" filepath="G:/django_web/foreignkey/.idea/foreignkey.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/hello/.idea/hello.iml" filepath="$USER_HOME$/PycharmProjects/hello/.idea/hello.iml" />
+      <module fileurl="file://G:/django_web/jianyue/.idea/jianyue.iml" filepath="G:/django_web/jianyue/.idea/jianyue.iml" />
+      <module fileurl="file://G:/django_web/media_test/.idea/media_test.iml" filepath="G:/django_web/media_test/.idea/media_test.iml" />
+      <module fileurl="file://G:/django_web/meinv_test/.idea/meinv_test.iml" filepath="G:/django_web/meinv_test/.idea/meinv_test.iml" />
+      <module fileurl="file://G:/django_web/model_test/.idea/model_test.iml" filepath="G:/django_web/model_test/.idea/model_test.iml" />
+      <module fileurl="file://G:/django_web/mysite/.idea/mysite.iml" filepath="G:/django_web/mysite/.idea/mysite.iml" />
+      <module fileurl="file://G:/py_script/position/.idea/position.iml" filepath="G:/py_script/position/.idea/position.iml" />
+      <module fileurl="file://G:/django_web/primary_key/.idea/primary_key.iml" filepath="G:/django_web/primary_key/.idea/primary_key.iml" />
+      <module fileurl="file://G:/py_script/pyguet/.idea/pyguet.iml" filepath="G:/py_script/pyguet/.idea/pyguet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/python.iml" filepath="$PROJECT_DIR$/.idea/python.iml" />
+      <module fileurl="file://G:/django_web/session_test/.idea/session_test.iml" filepath="G:/django_web/session_test/.idea/session_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../我的毕设/src/.idea/src.iml" filepath="$PROJECT_DIR$/../我的毕设/src/.idea/src.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/web/.idea/web.iml" filepath="$USER_HOME$/PycharmProjects/web/.idea/web.iml" />
+      <module fileurl="file://G:/django_web/wechat/.idea/wechat.iml" filepath="G:/django_web/wechat/.idea/wechat.iml" />
+      <module fileurl="file://G:/django_web/zhifu/.idea/zhifu.iml" filepath="G:/django_web/zhifu/.idea/zhifu.iml" />
+      <module fileurl="file://G:/django_web/zhujian/.idea/zhujian.iml" filepath="G:/django_web/zhujian/.idea/zhujian.iml" />
+      <module fileurl="file://E:/桂航/.idea/桂航.iml" filepath="E:/桂航/.idea/桂航.iml" />
+      <module fileurl="file://G:/django_web/聊天/.idea/聊天.iml" filepath="G:/django_web/聊天/.idea/聊天.iml" />
+    </modules>
+  </component>
+</project>

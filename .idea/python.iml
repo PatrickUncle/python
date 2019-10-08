@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 3.6 (python)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="web" />
+    <orderEntry type="module" module-name="web" />
+    <orderEntry type="module" module-name="hello" />
+    <orderEntry type="module" module-name="mysite" />
+    <orderEntry type="module" module-name="mysite" />
+    <orderEntry type="module" module-name="session_test" />
+    <orderEntry type="module" module-name="cookie_test" />
+    <orderEntry type="module" module-name="meinv_test" />
+    <orderEntry type="module" module-name="model_test" />
+    <orderEntry type="module" module-name="jianyue" />
+    <orderEntry type="module" module-name="zhifu" />
+    <orderEntry type="module" module-name="zhifu" />
+    <orderEntry type="module" module-name="zhifu" />
+    <orderEntry type="module" module-name="ajax_communicate" />
+    <orderEntry type="module" module-name="primary_key" />
+    <orderEntry type="module" module-name="zhujian" />
+    <orderEntry type="module" module-name="django_improve" />
+    <orderEntry type="module" module-name="wechat" />
+    <orderEntry type="module" module-name="foreignkey" />
+    <orderEntry type="module" module-name="media_test" />
+    <orderEntry type="module" module-name="am" />
+    <orderEntry type="module" module-name="pyguet" />
+    <orderEntry type="module" module-name="position" />
+    <orderEntry type="module" module-name="CCP_REST_DEMO_Python_v2.7r1" />
+    <orderEntry type="module" module-name="聊天" />
+    <orderEntry type="module" module-name="Farm" />
+    <orderEntry type="module" module-name="Farm" />
+    <orderEntry type="module" module-name="src" />
+    <orderEntry type="module" module-name="桂航" />
+  </component>
+</module>
